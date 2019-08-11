@@ -3,7 +3,6 @@ $('.port-item').click(function () {
   $('.collapse').collapse('hide');
 });
 
-
 // Init Ekko Light Box
 $(document).on('click', '[data-toggle="lightbox"]', function (e) {
   e.preventDefault();
